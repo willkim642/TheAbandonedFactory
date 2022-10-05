@@ -1,0 +1,26 @@
+h1 {
+    color: antiquewhite;
+    font-family:'Baskerville Old Face', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    color: antiquewhite;
+    font-family: 'Baskerville Old Face', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 5%;
+}
+p {
+    color: antiquewhite;
+    letter-spacing: 5px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background: black;
+    width: 80%;
+    margin: auto;
+    padding: 1em;
+}
+a {
+    color:aquamarine;
+    text-decoration: none;
+    padding: 1em 0;
+    display:inline-block;
+}
