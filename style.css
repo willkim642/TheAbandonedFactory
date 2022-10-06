@@ -1,18 +1,22 @@
 h1 {
-    color: antiquewhite;
+    color: white;
     font-family:'Baskerville Old Face', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 
 h2 {
-    color: antiquewhite;
+    color: white;
     font-family: 'Baskerville Old Face', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    padding-left: 5%;
+    /*padding-left: 5%;*/
+    text-align: center;
 }
 p {
-    color: antiquewhite;
-    letter-spacing: 5px;
-    padding-left: 10%;
-    padding-right: 10%;
+    border-style: dashed;
+    border-color: yellow;
+    color: white;
+    letter-spacing: 2px;
+    padding-left: 20%;
+    padding-right: 20%;
     background: black;
     width: 80%;
     margin: auto;
@@ -21,6 +25,8 @@ p {
 a {
     color:aquamarine;
     text-decoration: none;
-    padding: 1em 0;
     display:inline-block;
+}
+html {
+    background-color:dimgray;
 }
