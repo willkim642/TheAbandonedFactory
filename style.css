@@ -1,18 +1,32 @@
 h1 {
     color: white;
-    font-family:'Baskerville Old Face', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Baskerville Old Face', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    border-style: dashed;
+    border-color: yellow;
+    border-radius: 5px;
+    width: 30%;
+    margin: auto;
+    margin-top: 1em;
+    background-color: black;
 }
 
 h2 {
     color: white;
     font-family: 'Baskerville Old Face', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    /*padding-left: 5%;*/
     text-align: center;
+    border-style: dashed;
+    border-color: yellow;
+    border-radius: 5px;
+    width: 20%;
+    margin: auto;
+    margin-top: 1em;
+    background-color: black;
 }
 p {
     border-style: dashed;
     border-color: yellow;
+    border-radius: 5px;
     color: white;
     letter-spacing: 2px;
     padding-left: 20%;
@@ -20,13 +34,14 @@ p {
     background: black;
     width: 80%;
     margin: auto;
+    margin-top: 1em;
     padding: 1em;
 }
 a {
-    color:aquamarine;
+    color: red;
     text-decoration: none;
-    display:inline-block;
+    display: inline;
 }
 html {
-    background-color:dimgray;
+    background-color:black;
 }
